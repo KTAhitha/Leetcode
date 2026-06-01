@@ -31,4 +31,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/KTAhitha/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/KTAhitha/Leetcode/tree/main/0062-unique-paths/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/KTAhitha/Leetcode/tree/main/0062-unique-paths/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/KTAhitha/Leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
