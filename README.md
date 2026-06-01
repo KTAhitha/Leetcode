@@ -43,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/KTAhitha/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0091-decode-ways](https://github.com/KTAhitha/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KTAhitha/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/KTAhitha/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/KTAhitha/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
@@ -54,4 +55,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/KTAhitha/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0091-decode-ways](https://github.com/KTAhitha/Leetcode/tree/main/0091-decode-ways/) | Medium |
 <!---LeetCode Topics End-->
