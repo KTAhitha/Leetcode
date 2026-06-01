@@ -11,6 +11,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/KTAhitha/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/KTAhitha/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0322-coin-change](https://github.com/KTAhitha/Leetcode/tree/main/0322-coin-change/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/KTAhitha/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0322-coin-change](https://github.com/KTAhitha/Leetcode/tree/main/0322-coin-change/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -39,6 +41,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/KTAhitha/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0322-coin-change](https://github.com/KTAhitha/Leetcode/tree/main/0322-coin-change/) | Medium |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
