@@ -47,6 +47,7 @@
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/KTAhitha/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/KTAhitha/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0072-edit-distance](https://github.com/KTAhitha/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/KTAhitha/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0198-house-robber](https://github.com/KTAhitha/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KTAhitha/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
@@ -64,6 +65,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/KTAhitha/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/KTAhitha/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/KTAhitha/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
