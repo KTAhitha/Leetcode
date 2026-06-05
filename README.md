@@ -30,6 +30,7 @@
 | [0322-coin-change](https://github.com/KTAhitha/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/KTAhitha/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/KTAhitha/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KTAhitha/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -91,6 +92,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KTAhitha/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0143-reorder-list](https://github.com/KTAhitha/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,4 +118,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0143-reorder-list](https://github.com/KTAhitha/Leetcode/tree/main/0143-reorder-list/) | Medium |
+| [1019-next-greater-node-in-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 <!---LeetCode Topics End-->
