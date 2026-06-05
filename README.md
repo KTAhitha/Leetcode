@@ -88,6 +88,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KTAhitha/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/KTAhitha/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/KTAhitha/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0143-reorder-list](https://github.com/KTAhitha/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 ## Recursion
