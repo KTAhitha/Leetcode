@@ -9,7 +9,7 @@ class Solution {
         }
         for(int i=0;i<matrix.length;i++){
         int left=0,right=matrix.length-1;
-        while(left<=right){
+        while(left<right){
             int temp=matrix[i][left];
             matrix[i][left]=matrix[i][right];
             matrix[i][right]=temp;
