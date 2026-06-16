@@ -156,6 +156,7 @@
 | [0596-classes-with-at-least-5-students](https://github.com/KTAhitha/Leetcode/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/KTAhitha/Leetcode/tree/main/0607-sales-person/) | Easy |
 | [0626-exchange-seats](https://github.com/KTAhitha/Leetcode/tree/main/0626-exchange-seats/) | Medium |
+| [0627-swap-sex-of-employees](https://github.com/KTAhitha/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/KTAhitha/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/KTAhitha/Leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/KTAhitha/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
