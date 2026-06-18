@@ -159,6 +159,7 @@
 | [0620-not-boring-movies](https://github.com/KTAhitha/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [0626-exchange-seats](https://github.com/KTAhitha/Leetcode/tree/main/0626-exchange-seats/) | Medium |
 | [0627-swap-sex-of-employees](https://github.com/KTAhitha/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/KTAhitha/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/KTAhitha/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1148-article-views-i](https://github.com/KTAhitha/Leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/KTAhitha/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
