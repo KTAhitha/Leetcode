@@ -161,6 +161,7 @@
 | [0627-swap-sex-of-employees](https://github.com/KTAhitha/Leetcode/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/KTAhitha/Leetcode/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/KTAhitha/Leetcode/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1084-sales-analysis-iii](https://github.com/KTAhitha/Leetcode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1148-article-views-i](https://github.com/KTAhitha/Leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/KTAhitha/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/KTAhitha/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
