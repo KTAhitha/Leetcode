@@ -34,6 +34,7 @@
 | [0198-house-robber](https://github.com/KTAhitha/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/KTAhitha/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/KTAhitha/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0212-word-search-ii](https://github.com/KTAhitha/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0217-contains-duplicate](https://github.com/KTAhitha/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/KTAhitha/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/KTAhitha/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -55,6 +56,7 @@
 | [0048-rotate-image](https://github.com/KTAhitha/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/KTAhitha/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/KTAhitha/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0212-word-search-ii](https://github.com/KTAhitha/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/KTAhitha/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -100,6 +102,7 @@
 | [0076-minimum-window-substring](https://github.com/KTAhitha/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/KTAhitha/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0127-word-ladder](https://github.com/KTAhitha/Leetcode/tree/main/0127-word-ladder/) | Hard |
+| [0212-word-search-ii](https://github.com/KTAhitha/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0567-permutation-in-string](https://github.com/KTAhitha/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/KTAhitha/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KTAhitha/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
@@ -248,4 +251,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0127-word-ladder](https://github.com/KTAhitha/Leetcode/tree/main/0127-word-ladder/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0212-word-search-ii](https://github.com/KTAhitha/Leetcode/tree/main/0212-word-search-ii/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0212-word-search-ii](https://github.com/KTAhitha/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 <!---LeetCode Topics End-->
