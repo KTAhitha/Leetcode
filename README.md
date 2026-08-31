@@ -196,6 +196,7 @@
 | [1148-article-views-i](https://github.com/KTAhitha/Leetcode/tree/main/1148-article-views-i/) | Easy |
 | [1164-product-price-at-a-given-date](https://github.com/KTAhitha/Leetcode/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1174-immediate-food-delivery-ii](https://github.com/KTAhitha/Leetcode/tree/main/1174-immediate-food-delivery-ii/) | Medium |
+| [1179-reformat-department-table](https://github.com/KTAhitha/Leetcode/tree/main/1179-reformat-department-table/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/KTAhitha/Leetcode/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/KTAhitha/Leetcode/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/KTAhitha/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
