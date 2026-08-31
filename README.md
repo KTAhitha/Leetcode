@@ -49,6 +49,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KTAhitha/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/KTAhitha/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/KTAhitha/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/KTAhitha/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/KTAhitha/Leetcode/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -62,6 +63,7 @@
 | [0200-number-of-islands](https://github.com/KTAhitha/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/KTAhitha/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/KTAhitha/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/KTAhitha/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -70,6 +72,7 @@
 | [0268-missing-number](https://github.com/KTAhitha/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/KTAhitha/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/KTAhitha/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2965-find-missing-and-repeated-values](https://github.com/KTAhitha/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +243,7 @@
 | [0217-contains-duplicate](https://github.com/KTAhitha/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/KTAhitha/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0567-permutation-in-string](https://github.com/KTAhitha/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/KTAhitha/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
