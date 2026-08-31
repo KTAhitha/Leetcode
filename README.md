@@ -9,6 +9,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KTAhitha/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0127-word-ladder](https://github.com/KTAhitha/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0200-number-of-islands](https://github.com/KTAhitha/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/KTAhitha/Leetcode/tree/main/0207-course-schedule/) | Medium |
@@ -294,4 +295,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/KTAhitha/Leetcode/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KTAhitha/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KTAhitha/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 <!---LeetCode Topics End-->
