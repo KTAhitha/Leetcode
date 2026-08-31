@@ -47,6 +47,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KTAhitha/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/KTAhitha/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/KTAhitha/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/KTAhitha/Leetcode/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@
 | [0567-permutation-in-string](https://github.com/KTAhitha/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/KTAhitha/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KTAhitha/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/KTAhitha/Leetcode/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +265,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0212-word-search-ii](https://github.com/KTAhitha/Leetcode/tree/main/0212-word-search-ii/) | Hard |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/KTAhitha/Leetcode/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,4 +278,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/KTAhitha/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/KTAhitha/Leetcode/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/KTAhitha/Leetcode/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/KTAhitha/Leetcode/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
+## Z Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3045-count-prefix-and-suffix-pairs-ii](https://github.com/KTAhitha/Leetcode/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 <!---LeetCode Topics End-->
