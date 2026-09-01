@@ -74,6 +74,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/KTAhitha/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/KTAhitha/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [0172-factorial-trailing-zeroes](https://github.com/KTAhitha/Leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0268-missing-number](https://github.com/KTAhitha/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/KTAhitha/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0509-fibonacci-number](https://github.com/KTAhitha/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
