@@ -29,6 +29,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KTAhitha/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/KTAhitha/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0037-sudoku-solver](https://github.com/KTAhitha/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/KTAhitha/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/KTAhitha/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0048-rotate-image](https://github.com/KTAhitha/Leetcode/tree/main/0048-rotate-image/) | Medium |
@@ -70,6 +71,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/KTAhitha/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/KTAhitha/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/KTAhitha/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/KTAhitha/Leetcode/tree/main/0200-number-of-islands/) | Medium |
@@ -273,6 +275,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KTAhitha/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KTAhitha/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0037-sudoku-solver](https://github.com/KTAhitha/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0076-minimum-window-substring](https://github.com/KTAhitha/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/KTAhitha/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0169-majority-element](https://github.com/KTAhitha/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -314,6 +317,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/KTAhitha/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/KTAhitha/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/KTAhitha/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/KTAhitha/Leetcode/tree/main/0078-subsets/) | Medium |
@@ -411,4 +415,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/KTAhitha/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/KTAhitha/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/KTAhitha/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
