@@ -125,6 +125,7 @@
 | [0680-valid-palindrome-ii](https://github.com/KTAhitha/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/KTAhitha/Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KTAhitha/Leetcode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/KTAhitha/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/KTAhitha/Leetcode/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -197,6 +198,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/KTAhitha/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0143-reorder-list](https://github.com/KTAhitha/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/KTAhitha/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -368,4 +370,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0493-reverse-pairs](https://github.com/KTAhitha/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/KTAhitha/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 <!---LeetCode Topics End-->
