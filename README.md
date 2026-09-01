@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/KTAhitha/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/KTAhitha/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/KTAhitha/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -14,6 +15,7 @@
 | [0200-number-of-islands](https://github.com/KTAhitha/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/KTAhitha/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/KTAhitha/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/KTAhitha/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,6 +58,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KTAhitha/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/KTAhitha/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/KTAhitha/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/KTAhitha/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/KTAhitha/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3045-count-prefix-and-suffix-pairs-ii](https://github.com/KTAhitha/Leetcode/tree/main/3045-count-prefix-and-suffix-pairs-ii/) | Hard |
 ## Union-Find
@@ -70,6 +73,7 @@
 | [0200-number-of-islands](https://github.com/KTAhitha/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/KTAhitha/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/KTAhitha/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/KTAhitha/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/KTAhitha/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -391,6 +395,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KTAhitha/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
+| [2596-check-knight-tour-configuration](https://github.com/KTAhitha/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/KTAhitha/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Knuth–Morris–Pratt Algorithm
 | Problem Name | Difficulty |
