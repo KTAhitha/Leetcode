@@ -92,6 +92,7 @@
 | [0072-edit-distance](https://github.com/KTAhitha/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/KTAhitha/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KTAhitha/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0131-palindrome-partitioning](https://github.com/KTAhitha/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0198-house-robber](https://github.com/KTAhitha/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KTAhitha/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/KTAhitha/Leetcode/tree/main/0322-coin-change/) | Medium |
@@ -123,6 +124,7 @@
 | [0076-minimum-window-substring](https://github.com/KTAhitha/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/KTAhitha/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0127-word-ladder](https://github.com/KTAhitha/Leetcode/tree/main/0127-word-ladder/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/KTAhitha/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0212-word-search-ii](https://github.com/KTAhitha/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0443-string-compression](https://github.com/KTAhitha/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/KTAhitha/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -306,6 +308,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/KTAhitha/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/KTAhitha/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/KTAhitha/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0212-word-search-ii](https://github.com/KTAhitha/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
