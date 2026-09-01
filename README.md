@@ -29,6 +29,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/KTAhitha/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/KTAhitha/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/KTAhitha/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0037-sudoku-solver](https://github.com/KTAhitha/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/KTAhitha/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/KTAhitha/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
@@ -203,6 +204,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/KTAhitha/Leetcode/tree/main/0015-3sum/) | Medium |
+| [0027-remove-element](https://github.com/KTAhitha/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0088-merge-sorted-array](https://github.com/KTAhitha/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0143-reorder-list](https://github.com/KTAhitha/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0283-move-zeroes](https://github.com/KTAhitha/Leetcode/tree/main/0283-move-zeroes/) | Easy |
