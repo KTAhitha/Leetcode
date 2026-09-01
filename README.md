@@ -34,6 +34,7 @@
 | [0048-rotate-image](https://github.com/KTAhitha/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/KTAhitha/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0064-minimum-path-sum](https://github.com/KTAhitha/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0078-subsets](https://github.com/KTAhitha/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/KTAhitha/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/KTAhitha/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/KTAhitha/Leetcode/tree/main/0090-subsets-ii/) | Medium |
@@ -297,6 +298,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/KTAhitha/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/KTAhitha/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0268-missing-number](https://github.com/KTAhitha/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/KTAhitha/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -314,6 +316,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/KTAhitha/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/KTAhitha/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
+| [0078-subsets](https://github.com/KTAhitha/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/KTAhitha/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/KTAhitha/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0212-word-search-ii](https://github.com/KTAhitha/Leetcode/tree/main/0212-word-search-ii/) | Hard |
