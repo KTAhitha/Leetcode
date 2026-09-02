@@ -75,6 +75,7 @@
 | [0493-reverse-pairs](https://github.com/KTAhitha/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0518-coin-change-ii](https://github.com/KTAhitha/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/KTAhitha/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0621-task-scheduler](https://github.com/KTAhitha/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0622-design-circular-queue](https://github.com/KTAhitha/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/KTAhitha/Leetcode/tree/main/0641-design-circular-deque/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/KTAhitha/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -248,6 +249,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/KTAhitha/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/KTAhitha/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/KTAhitha/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/KTAhitha/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/KTAhitha/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/KTAhitha/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/KTAhitha/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -353,6 +355,7 @@
 | [0347-top-k-frequent-elements](https://github.com/KTAhitha/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/KTAhitha/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/KTAhitha/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0621-task-scheduler](https://github.com/KTAhitha/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KTAhitha/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/KTAhitha/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Sorting
@@ -366,6 +369,7 @@
 | [0268-missing-number](https://github.com/KTAhitha/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/KTAhitha/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/KTAhitha/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/KTAhitha/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/KTAhitha/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/KTAhitha/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Counting
@@ -373,6 +377,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/KTAhitha/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/KTAhitha/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0621-task-scheduler](https://github.com/KTAhitha/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -384,6 +389,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/KTAhitha/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0621-task-scheduler](https://github.com/KTAhitha/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/KTAhitha/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Bidirectional Search
 | Problem Name | Difficulty |
