@@ -4,6 +4,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KTAhitha/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/KTAhitha/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -401,6 +402,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KTAhitha/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -412,6 +414,7 @@
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/KTAhitha/Leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -479,6 +482,7 @@
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Interactive
