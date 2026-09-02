@@ -71,6 +71,7 @@
 | [0287-find-the-duplicate-number](https://github.com/KTAhitha/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KTAhitha/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/KTAhitha/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/KTAhitha/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/KTAhitha/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0518-coin-change-ii](https://github.com/KTAhitha/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/KTAhitha/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -234,12 +235,14 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0169-majority-element](https://github.com/KTAhitha/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/KTAhitha/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/KTAhitha/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/KTAhitha/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KTAhitha/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/KTAhitha/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/KTAhitha/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/KTAhitha/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -339,6 +342,7 @@
 | [0169-majority-element](https://github.com/KTAhitha/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/KTAhitha/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/KTAhitha/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/KTAhitha/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/KTAhitha/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/KTAhitha/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KTAhitha/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -352,11 +356,13 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/KTAhitha/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/KTAhitha/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/KTAhitha/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/KTAhitha/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/KTAhitha/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/KTAhitha/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/KTAhitha/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -459,6 +465,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/KTAhitha/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/KTAhitha/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -562,4 +569,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KTAhitha/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/KTAhitha/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
