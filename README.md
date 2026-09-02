@@ -66,6 +66,7 @@
 | [0212-word-search-ii](https://github.com/KTAhitha/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/KTAhitha/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/KTAhitha/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0218-the-skyline-problem](https://github.com/KTAhitha/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0268-missing-number](https://github.com/KTAhitha/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/KTAhitha/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/KTAhitha/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -245,6 +246,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0169-majority-element](https://github.com/KTAhitha/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/KTAhitha/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0218-the-skyline-problem](https://github.com/KTAhitha/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/KTAhitha/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/KTAhitha/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0973-k-closest-points-to-origin](https://github.com/KTAhitha/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -253,6 +255,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KTAhitha/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/KTAhitha/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0218-the-skyline-problem](https://github.com/KTAhitha/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0295-find-median-from-data-stream](https://github.com/KTAhitha/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/KTAhitha/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/KTAhitha/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
@@ -380,6 +383,7 @@
 | [0169-majority-element](https://github.com/KTAhitha/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/KTAhitha/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/KTAhitha/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0218-the-skyline-problem](https://github.com/KTAhitha/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0268-missing-number](https://github.com/KTAhitha/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/KTAhitha/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/KTAhitha/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -522,16 +526,19 @@
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/KTAhitha/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0493-reverse-pairs](https://github.com/KTAhitha/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KTAhitha/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/KTAhitha/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0493-reverse-pairs](https://github.com/KTAhitha/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KTAhitha/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/KTAhitha/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 | [0493-reverse-pairs](https://github.com/KTAhitha/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 ## Treap
 | Problem Name | Difficulty |
@@ -628,4 +635,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/KTAhitha/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Sweep Line
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0218-the-skyline-problem](https://github.com/KTAhitha/Leetcode/tree/main/0218-the-skyline-problem/) | Hard |
 <!---LeetCode Topics End-->
