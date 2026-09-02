@@ -14,6 +14,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KTAhitha/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/KTAhitha/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/KTAhitha/Leetcode/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/KTAhitha/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -25,11 +26,13 @@
 | [0207-course-schedule](https://github.com/KTAhitha/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/KTAhitha/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/KTAhitha/Leetcode/tree/main/0322-coin-change/) | Medium |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/KTAhitha/Leetcode/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/KTAhitha/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/KTAhitha/Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/KTAhitha/Leetcode/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -426,6 +429,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/KTAhitha/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/KTAhitha/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [2477-minimum-fuel-cost-to-report-to-the-capital](https://github.com/KTAhitha/Leetcode/tree/main/2477-minimum-fuel-cost-to-report-to-the-capital/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
