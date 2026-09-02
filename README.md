@@ -243,6 +243,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/KTAhitha/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/KTAhitha/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/KTAhitha/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/KTAhitha/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1046-last-stone-weight](https://github.com/KTAhitha/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/KTAhitha/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -262,6 +263,7 @@
 | [0143-reorder-list](https://github.com/KTAhitha/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0283-move-zeroes](https://github.com/KTAhitha/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/KTAhitha/Leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0295-find-median-from-data-stream](https://github.com/KTAhitha/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0443-string-compression](https://github.com/KTAhitha/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/KTAhitha/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/KTAhitha/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -358,6 +360,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/KTAhitha/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/KTAhitha/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/KTAhitha/Leetcode/tree/main/0268-missing-number/) | Easy |
+| [0295-find-median-from-data-stream](https://github.com/KTAhitha/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/KTAhitha/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/KTAhitha/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Counting
@@ -560,6 +563,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/KTAhitha/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0622-design-circular-queue](https://github.com/KTAhitha/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0641-design-circular-deque](https://github.com/KTAhitha/Leetcode/tree/main/0641-design-circular-deque/) | Medium |
 ## Queue
@@ -575,4 +579,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/KTAhitha/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0295-find-median-from-data-stream](https://github.com/KTAhitha/Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 <!---LeetCode Topics End-->
