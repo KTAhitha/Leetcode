@@ -10,6 +10,7 @@
 | [0200-number-of-islands](https://github.com/KTAhitha/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/KTAhitha/Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/KTAhitha/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/KTAhitha/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [2596-check-knight-tour-configuration](https://github.com/KTAhitha/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 ## Breadth-First Search
@@ -406,6 +407,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/KTAhitha/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/KTAhitha/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/KTAhitha/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/KTAhitha/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -416,6 +418,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/KTAhitha/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/KTAhitha/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/KTAhitha/Leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/KTAhitha/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -477,6 +480,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -495,4 +499,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/KTAhitha/Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
