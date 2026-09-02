@@ -479,6 +479,7 @@
 | [0040-combination-sum-ii](https://github.com/KTAhitha/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/KTAhitha/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0047-permutations-ii](https://github.com/KTAhitha/Leetcode/tree/main/0047-permutations-ii/) | Medium |
+| [0052-n-queens-ii](https://github.com/KTAhitha/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
 | [0078-subsets](https://github.com/KTAhitha/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/KTAhitha/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/KTAhitha/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -616,6 +617,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/KTAhitha/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
+| [0052-n-queens-ii](https://github.com/KTAhitha/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
 ## Dancing Links
 | Problem Name | Difficulty |
 | ------- | ------- |
