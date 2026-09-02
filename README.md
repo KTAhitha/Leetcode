@@ -78,6 +78,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/KTAhitha/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/KTAhitha/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0622-design-circular-queue](https://github.com/KTAhitha/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KTAhitha/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0641-design-circular-deque](https://github.com/KTAhitha/Leetcode/tree/main/0641-design-circular-deque/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/KTAhitha/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KTAhitha/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -201,6 +202,7 @@
 | [0076-minimum-window-substring](https://github.com/KTAhitha/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/KTAhitha/Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/KTAhitha/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KTAhitha/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0643-maximum-average-subarray-i](https://github.com/KTAhitha/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/KTAhitha/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KTAhitha/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
@@ -256,6 +258,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/KTAhitha/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0502-ipo](https://github.com/KTAhitha/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/KTAhitha/Leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KTAhitha/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0767-reorganize-string](https://github.com/KTAhitha/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/KTAhitha/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/KTAhitha/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
@@ -365,6 +368,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/KTAhitha/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0567-permutation-in-string](https://github.com/KTAhitha/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0621-task-scheduler](https://github.com/KTAhitha/Leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KTAhitha/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0767-reorganize-string](https://github.com/KTAhitha/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KTAhitha/Leetcode/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/KTAhitha/Leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -382,6 +386,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/KTAhitha/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0502-ipo](https://github.com/KTAhitha/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/KTAhitha/Leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KTAhitha/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0767-reorganize-string](https://github.com/KTAhitha/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/KTAhitha/Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/KTAhitha/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -406,6 +411,7 @@
 | [0044-wildcard-matching](https://github.com/KTAhitha/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0502-ipo](https://github.com/KTAhitha/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/KTAhitha/Leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KTAhitha/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
 | [0680-valid-palindrome-ii](https://github.com/KTAhitha/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0767-reorganize-string](https://github.com/KTAhitha/Leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/KTAhitha/Leetcode/tree/main/1642-furthest-building-you-can-reach/) | Medium |
