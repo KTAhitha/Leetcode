@@ -52,6 +52,7 @@
 | [0048-rotate-image](https://github.com/KTAhitha/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/KTAhitha/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/KTAhitha/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/KTAhitha/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/KTAhitha/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0078-subsets](https://github.com/KTAhitha/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/KTAhitha/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
@@ -139,6 +140,7 @@
 | [0042-trapping-rain-water](https://github.com/KTAhitha/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/KTAhitha/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0053-maximum-subarray](https://github.com/KTAhitha/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/KTAhitha/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/KTAhitha/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/KTAhitha/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0072-edit-distance](https://github.com/KTAhitha/Leetcode/tree/main/0072-edit-distance/) | Medium |
@@ -426,6 +428,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0044-wildcard-matching](https://github.com/KTAhitha/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0055-jump-game](https://github.com/KTAhitha/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0502-ipo](https://github.com/KTAhitha/Leetcode/tree/main/0502-ipo/) | Hard |
 | [0621-task-scheduler](https://github.com/KTAhitha/Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/KTAhitha/Leetcode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | Hard |
