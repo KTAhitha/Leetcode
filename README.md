@@ -82,6 +82,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/KTAhitha/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/KTAhitha/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1046-last-stone-weight](https://github.com/KTAhitha/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1095-find-in-mountain-array](https://github.com/KTAhitha/Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KTAhitha/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/KTAhitha/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -243,6 +244,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/KTAhitha/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/KTAhitha/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/KTAhitha/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [1046-last-stone-weight](https://github.com/KTAhitha/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/KTAhitha/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
