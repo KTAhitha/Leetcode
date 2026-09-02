@@ -64,6 +64,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/KTAhitha/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/KTAhitha/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/KTAhitha/Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KTAhitha/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/KTAhitha/Leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/KTAhitha/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
@@ -133,6 +134,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/KTAhitha/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0493-reverse-pairs](https://github.com/KTAhitha/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0713-subarray-product-less-than-k](https://github.com/KTAhitha/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1095-find-in-mountain-array](https://github.com/KTAhitha/Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -452,4 +454,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/KTAhitha/Leetcode/tree/main/0278-first-bad-version/) | Easy |
+| [1095-find-in-mountain-array](https://github.com/KTAhitha/Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1095-find-in-mountain-array](https://github.com/KTAhitha/Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
 <!---LeetCode Topics End-->
