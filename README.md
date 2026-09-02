@@ -57,6 +57,7 @@
 | [0042-trapping-rain-water](https://github.com/KTAhitha/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/KTAhitha/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [0046-permutations](https://github.com/KTAhitha/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/KTAhitha/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0048-rotate-image](https://github.com/KTAhitha/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/KTAhitha/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/KTAhitha/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
@@ -419,6 +420,7 @@
 | [0015-3sum](https://github.com/KTAhitha/Leetcode/tree/main/0015-3sum/) | Medium |
 | [0016-3sum-closest](https://github.com/KTAhitha/Leetcode/tree/main/0016-3sum-closest/) | Medium |
 | [0018-4sum](https://github.com/KTAhitha/Leetcode/tree/main/0018-4sum/) | Medium |
+| [0047-permutations-ii](https://github.com/KTAhitha/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KTAhitha/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/KTAhitha/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/KTAhitha/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
@@ -476,6 +478,7 @@
 | [0039-combination-sum](https://github.com/KTAhitha/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/KTAhitha/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/KTAhitha/Leetcode/tree/main/0046-permutations/) | Medium |
+| [0047-permutations-ii](https://github.com/KTAhitha/Leetcode/tree/main/0047-permutations-ii/) | Medium |
 | [0078-subsets](https://github.com/KTAhitha/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/KTAhitha/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/KTAhitha/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
