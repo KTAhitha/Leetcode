@@ -262,6 +262,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/KTAhitha/Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0023-merge-k-sorted-lists](https://github.com/KTAhitha/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0025-reverse-nodes-in-k-group](https://github.com/KTAhitha/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KTAhitha/Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KTAhitha/Leetcode/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
@@ -327,6 +328,7 @@
 | [0031-next-permutation](https://github.com/KTAhitha/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0042-trapping-rain-water](https://github.com/KTAhitha/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KTAhitha/Leetcode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/KTAhitha/Leetcode/tree/main/0082-remove-duplicates-from-sorted-list-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/KTAhitha/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0143-reorder-list](https://github.com/KTAhitha/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0283-move-zeroes](https://github.com/KTAhitha/Leetcode/tree/main/0283-move-zeroes/) | Easy |
