@@ -65,6 +65,7 @@
 | [0056-merge-intervals](https://github.com/KTAhitha/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/KTAhitha/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/KTAhitha/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0068-text-justification](https://github.com/KTAhitha/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0078-subsets](https://github.com/KTAhitha/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/KTAhitha/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/KTAhitha/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -203,6 +204,7 @@
 | [0020-valid-parentheses](https://github.com/KTAhitha/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KTAhitha/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0044-wildcard-matching](https://github.com/KTAhitha/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0068-text-justification](https://github.com/KTAhitha/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/KTAhitha/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/KTAhitha/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/KTAhitha/Leetcode/tree/main/0091-decode-ways/) | Medium |
@@ -604,6 +606,7 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/KTAhitha/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/KTAhitha/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
+| [0068-text-justification](https://github.com/KTAhitha/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0946-validate-stack-sequences](https://github.com/KTAhitha/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KTAhitha/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/KTAhitha/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
