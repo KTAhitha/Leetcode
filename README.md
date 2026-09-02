@@ -71,6 +71,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/KTAhitha/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/KTAhitha/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/KTAhitha/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/KTAhitha/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1095-find-in-mountain-array](https://github.com/KTAhitha/Leetcode/tree/main/1095-find-in-mountain-array/) | Hard |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/KTAhitha/Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -254,6 +255,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/KTAhitha/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0224-basic-calculator](https://github.com/KTAhitha/Leetcode/tree/main/0224-basic-calculator/) | Hard |
+| [0946-validate-stack-sequences](https://github.com/KTAhitha/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KTAhitha/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Monotonic Stack
@@ -470,6 +472,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/KTAhitha/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/KTAhitha/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KTAhitha/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2596-check-knight-tour-configuration](https://github.com/KTAhitha/Leetcode/tree/main/2596-check-knight-tour-configuration/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/KTAhitha/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
