@@ -135,6 +135,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/KTAhitha/Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/KTAhitha/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0509-fibonacci-number](https://github.com/KTAhitha/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0516-longest-palindromic-subsequence](https://github.com/KTAhitha/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/KTAhitha/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/KTAhitha/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/KTAhitha/Leetcode/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
@@ -173,6 +174,7 @@
 | [0214-shortest-palindrome](https://github.com/KTAhitha/Leetcode/tree/main/0214-shortest-palindrome/) | Hard |
 | [0224-basic-calculator](https://github.com/KTAhitha/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0443-string-compression](https://github.com/KTAhitha/Leetcode/tree/main/0443-string-compression/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/KTAhitha/Leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0567-permutation-in-string](https://github.com/KTAhitha/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/KTAhitha/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/KTAhitha/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
