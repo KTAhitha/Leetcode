@@ -102,6 +102,7 @@
 | [0048-rotate-image](https://github.com/KTAhitha/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/KTAhitha/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/KTAhitha/Leetcode/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0224-basic-calculator](https://github.com/KTAhitha/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0268-missing-number](https://github.com/KTAhitha/Leetcode/tree/main/0268-missing-number/) | Easy |
 | [0319-bulb-switcher](https://github.com/KTAhitha/Leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0509-fibonacci-number](https://github.com/KTAhitha/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -158,6 +159,7 @@
 | [0131-palindrome-partitioning](https://github.com/KTAhitha/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0212-word-search-ii](https://github.com/KTAhitha/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [0214-shortest-palindrome](https://github.com/KTAhitha/Leetcode/tree/main/0214-shortest-palindrome/) | Hard |
+| [0224-basic-calculator](https://github.com/KTAhitha/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0443-string-compression](https://github.com/KTAhitha/Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/KTAhitha/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/KTAhitha/Leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -205,6 +207,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/KTAhitha/Leetcode/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0044-wildcard-matching](https://github.com/KTAhitha/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0143-reorder-list](https://github.com/KTAhitha/Leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0224-basic-calculator](https://github.com/KTAhitha/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [0509-fibonacci-number](https://github.com/KTAhitha/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -250,6 +253,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/KTAhitha/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/KTAhitha/Leetcode/tree/main/0143-reorder-list/) | Medium |
+| [0224-basic-calculator](https://github.com/KTAhitha/Leetcode/tree/main/0224-basic-calculator/) | Hard |
 | [1019-next-greater-node-in-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/KTAhitha/Leetcode/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Monotonic Stack
