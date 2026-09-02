@@ -69,6 +69,7 @@
 | [0493-reverse-pairs](https://github.com/KTAhitha/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0518-coin-change-ii](https://github.com/KTAhitha/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/KTAhitha/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0622-design-circular-queue](https://github.com/KTAhitha/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/KTAhitha/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/KTAhitha/Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/KTAhitha/Leetcode/tree/main/0946-validate-stack-sequences/) | Medium |
@@ -201,6 +202,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/KTAhitha/Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0328-odd-even-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0622-design-circular-queue](https://github.com/KTAhitha/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 | [1019-next-greater-node-in-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/1019-next-greater-node-in-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -527,4 +529,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/KTAhitha/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/KTAhitha/Leetcode/tree/main/0622-design-circular-queue/) | Medium |
 <!---LeetCode Topics End-->
