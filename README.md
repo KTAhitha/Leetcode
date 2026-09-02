@@ -4,6 +4,7 @@
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/KTAhitha/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/KTAhitha/Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/KTAhitha/Leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
@@ -67,6 +68,7 @@
 | [0064-minimum-path-sum](https://github.com/KTAhitha/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
 | [0068-text-justification](https://github.com/KTAhitha/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0078-subsets](https://github.com/KTAhitha/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/KTAhitha/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/KTAhitha/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0088-merge-sorted-array](https://github.com/KTAhitha/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0090-subsets-ii](https://github.com/KTAhitha/Leetcode/tree/main/0090-subsets-ii/) | Medium |
@@ -130,6 +132,7 @@
 | [0054-spiral-matrix](https://github.com/KTAhitha/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/KTAhitha/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/KTAhitha/Leetcode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0079-word-search](https://github.com/KTAhitha/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0200-number-of-islands](https://github.com/KTAhitha/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0212-word-search-ii](https://github.com/KTAhitha/Leetcode/tree/main/0212-word-search-ii/) | Hard |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/KTAhitha/Leetcode/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
@@ -207,6 +210,7 @@
 | [0068-text-justification](https://github.com/KTAhitha/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/KTAhitha/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/KTAhitha/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0079-word-search](https://github.com/KTAhitha/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0091-decode-ways](https://github.com/KTAhitha/Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0127-word-ladder](https://github.com/KTAhitha/Leetcode/tree/main/0127-word-ladder/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/KTAhitha/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -488,6 +492,7 @@
 | [0052-n-queens-ii](https://github.com/KTAhitha/Leetcode/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/KTAhitha/Leetcode/tree/main/0077-combinations/) | Medium |
 | [0078-subsets](https://github.com/KTAhitha/Leetcode/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/KTAhitha/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/KTAhitha/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/KTAhitha/Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0212-word-search-ii](https://github.com/KTAhitha/Leetcode/tree/main/0212-word-search-ii/) | Hard |
