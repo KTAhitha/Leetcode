@@ -213,6 +213,7 @@
 | [0020-valid-parentheses](https://github.com/KTAhitha/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KTAhitha/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0044-wildcard-matching](https://github.com/KTAhitha/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
+| [0065-valid-number](https://github.com/KTAhitha/Leetcode/tree/main/0065-valid-number/) | Hard |
 | [0068-text-justification](https://github.com/KTAhitha/Leetcode/tree/main/0068-text-justification/) | Hard |
 | [0072-edit-distance](https://github.com/KTAhitha/Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/KTAhitha/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
