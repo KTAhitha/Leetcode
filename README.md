@@ -77,6 +77,7 @@
 | [0090-subsets-ii](https://github.com/KTAhitha/Leetcode/tree/main/0090-subsets-ii/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KTAhitha/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KTAhitha/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0128-longest-consecutive-sequence](https://github.com/KTAhitha/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/KTAhitha/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/KTAhitha/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/KTAhitha/Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -124,6 +125,7 @@
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/KTAhitha/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0200-number-of-islands](https://github.com/KTAhitha/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/KTAhitha/Leetcode/tree/main/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable/) | Hard |
 ## Matrix
@@ -417,6 +419,7 @@
 | [0041-first-missing-positive](https://github.com/KTAhitha/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/KTAhitha/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/KTAhitha/Leetcode/tree/main/0127-word-ladder/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/KTAhitha/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0139-word-break](https://github.com/KTAhitha/Leetcode/tree/main/0139-word-break/) | Medium |
 | [0169-majority-element](https://github.com/KTAhitha/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/KTAhitha/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
