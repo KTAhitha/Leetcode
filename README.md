@@ -160,6 +160,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KTAhitha/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0022-generate-parentheses](https://github.com/KTAhitha/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/KTAhitha/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0044-wildcard-matching](https://github.com/KTAhitha/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0045-jump-game-ii](https://github.com/KTAhitha/Leetcode/tree/main/0045-jump-game-ii/) | Medium |
@@ -211,6 +212,7 @@
 | [0005-longest-palindromic-substring](https://github.com/KTAhitha/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KTAhitha/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/KTAhitha/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/KTAhitha/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/KTAhitha/Leetcode/tree/main/0030-substring-with-concatenation-of-all-words/) | Hard |
 | [0044-wildcard-matching](https://github.com/KTAhitha/Leetcode/tree/main/0044-wildcard-matching/) | Hard |
 | [0065-valid-number](https://github.com/KTAhitha/Leetcode/tree/main/0065-valid-number/) | Hard |
@@ -495,6 +497,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/KTAhitha/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/KTAhitha/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/KTAhitha/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/KTAhitha/Leetcode/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/KTAhitha/Leetcode/tree/main/0040-combination-sum-ii/) | Medium |
@@ -735,4 +738,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/KTAhitha/Leetcode/tree/main/0056-merge-intervals/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/KTAhitha/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
